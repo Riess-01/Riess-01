@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Riess-01/Riess-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Riess-01
 
-Here are some ideas to get you started:
+<img src="./assets/ascii_avatar.gif" width="700">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI • Quantum Machine Learning • Cybersecurity
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on Quantum Machine Learning
+- 🌱 I'm currently researching AI and Quantum Computing
+- 🔐 Interested in Cybersecurity
+- 🧠 Researching ME-QCNN
+- ⚛️ Exploring Quantum Machine Learning
+- 💻 Computer Science & Technology
+
+---
+
+## 🚀 Research
+
+- Modified Enhanced Quantum Convolutional Neural Network (ME-QCNN)
+- Quantum Machine Learning
+- Molecular Ground-State Energy Estimation
+- Quantum Chemistry
+- Artificial Intelligence
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,qiskit,linux,git,github">
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Riess-01&show_icons=true&theme=tokyonight">
+
+</p>
+
+---
+
+<div align="center">
+
+> `SYSTEM STATUS: ONLINE`
+
+</div>
